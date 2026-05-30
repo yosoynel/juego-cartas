@@ -25,5 +25,5 @@ Proyecto juego en VS code con librerias.
 
 Profesor: mtbh2008@gmail.com
 
-Enlace directo a la animación:
-[https://yosoynel.github.io/mision-aurora/](https://yosoynel.github.io/juego-cartas/)
+Enlace directo al juego:
+https://yosoynel.github.io/juego-cartas/
